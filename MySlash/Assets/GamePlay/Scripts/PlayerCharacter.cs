@@ -75,4 +75,9 @@ public class PlayerCharacter : MonoBehaviour
         canattack = true;
     }
 
+    public void HitEnemy(GameObject target) 
+    {
+        ResetCanAttack(); 
+    }
+
 }
