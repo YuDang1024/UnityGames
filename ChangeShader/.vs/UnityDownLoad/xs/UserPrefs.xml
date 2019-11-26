@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{174019D9-B67E-6E4E-11BE-0F981DFA0743}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeShader.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeShader.cs" Line="16" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
